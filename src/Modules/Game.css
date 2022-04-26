@@ -1,0 +1,10 @@
+.game_container {
+    margin: auto;
+    width: 260px;
+    height: 500px;
+    background: url('../../public/Images/road.png') ;
+}
+
+.player {
+    background: url('../../public/Images/audi_a8.png');
+}
